@@ -253,6 +253,5 @@ If using this project in academic research:
 
 ---
 
-**Made with ❤️ using Streamlit and Scikit-learn**
 
-*Last updated: March 2026*
+
