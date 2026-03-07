@@ -2,7 +2,7 @@
 
 An AI-powered web application for cardiovascular risk assessment using machine learning.
 
-🔗 **[Live Demo](#https://heart-disease-prediction-p6kofpa2yhuapjxfyxldau.streamlit.app/)** 
+🔗 **[Live Demo](https://heart-disease-prediction-p6kofpa2yhuapjxfyxldau.streamlit.app/)** 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.29+-red.svg)
