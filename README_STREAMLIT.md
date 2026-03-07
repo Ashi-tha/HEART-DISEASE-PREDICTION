@@ -225,14 +225,6 @@ This project is for educational and research purposes. Please ensure compliance 
 
 ---
 
-## 📞 Support
-
-- 📖 [Streamlit Deployment Guide](STREAMLIT_DEPLOYMENT.md)
-- 💬 [Open an Issue](https://github.com/YOUR-USERNAME/heart-disease-prediction/issues)
-- 📧 Contact: your-email@example.com
-
----
-
 ## 🎓 Citations
 
 If using this project in academic research:
