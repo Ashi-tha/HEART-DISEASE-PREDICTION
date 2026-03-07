@@ -43,20 +43,7 @@ streamlit run streamlit_app.py
 
 The app will open at `http://localhost:8501`
 
-### Deploy to Streamlit Cloud (FREE)
 
-1. **Fork this repository** to your GitHub account
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Sign in with GitHub
-4. Click "New app"
-5. Select your repository and `streamlit_app.py`
-6. Click "Deploy"!
-
-**Done!** Your app is now live in ~2 minutes 🎉
-
-📖 **Detailed deployment guide:** See [STREAMLIT_DEPLOYMENT.md](STREAMLIT_DEPLOYMENT.md)
-
----
 
 ## 📊 Model Performance
 
@@ -110,21 +97,6 @@ The system analyzes:
 
 ---
 
-## 📁 Project Structure
-
-```
-heart_disease_prediction/
-├── streamlit_app.py           # Main application
-├── train_model.py             # Model training script
-├── test_model.py              # Testing utilities
-├── best_model.pkl             # Trained SVM model
-├── scaler.pkl                 # Feature scaler
-├── requirements.txt           # Python dependencies
-├── heart_disease_data.csv     # Training dataset
-├── .streamlit/
-│   └── config.toml            # App configuration
-└── README.md                  # This file
-```
 
 ---
 
